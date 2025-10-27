@@ -1,4 +1,4 @@
-#Booking Project — Booking Platform (Frontend)
+#Booking.dot — Booking Platform (Frontend)
 
 A pet project built with **Vue 3 + Vite**, serving as the **frontend** for a small booking application.  
 This app helps users find and book apartments online, manage profiles, and interact with listings in real time.
